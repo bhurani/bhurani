@@ -64,7 +64,7 @@ Here are some ideas to get you started:
 
 <br/>
 
-### Connect With Me
+## Connect With Me
 
 <div align="center">
 <a href="https://github.com/bhurani" target="_blank">
