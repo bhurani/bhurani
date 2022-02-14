@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 ### Backend
 <div align="center">
 <img alt="PHP" height="50" style="margin:10px" src="https://static.javatpoint.com/phppages/images/php-tutorial.png"/>
-<img alt="MySQL" height="50" style="margin:10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg"/>
+<img alt="MySQL" height="50" style="margin:10px" src="https://cdn.liveagent.com/app/uploads/2020/11/MySQL-Logo.png"/>
 </div>
 
 </td>
