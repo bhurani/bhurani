@@ -29,14 +29,14 @@ Here are some ideas to get you started:
 
 ### Frontend
 <div align="center">
-<img alt="Bootstrap" height="50" style="margin:10px" src="" />
-<img alt="CSS3" height="50" style="margin:10px" src="" />
-<img alt="HTML5" height="50" style="margin:10px" src="" />
-<img alt="JavaScript" height="50" style="margin:10px" src="" />
-<img alt="Photoshop" height="50" style="margin:10px" src="" />
-<img alt="Sass" height="50" style="margin:10px" src="" />
-<img alt="jQuery" height="50" style="margin:10px" src="" />
-<img alt="WordPress" height="50" style="margin:10px" src="" />
+<img alt="Bootstrap" height="50" style="margin:10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" />
+<img alt="CSS3" height="50" style="margin:10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" />
+<img alt="HTML5" height="50" style="margin:10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" />
+<img alt="JavaScript" height="50" style="margin:10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" />
+<img alt="Photoshop" height="50" style="margin:10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" />
+<img alt="Sass" height="50" style="margin:10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" />
+<img alt="jQuery" height="50" style="margin:10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" />
+<img alt="WordPress" height="50" style="margin:10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" />
 </div>
 
 </td>
@@ -44,8 +44,8 @@ Here are some ideas to get you started:
 
 ### Backend
 <div align="center">
-<img alt="PHP" height="50" style="margin:10px" src="" />
-<img alt="MySQL" height="50" style="margin:10px" src="" />
+<img alt="PHP" height="50" style="margin:10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" />
+<img alt="MySQL" height="50" style="margin:10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" />
 </div>
 
 </td>
@@ -53,9 +53,9 @@ Here are some ideas to get you started:
 
 ### DevOps
 <div align="center">
-<img alt="Linux" height="50" style="margin:10px" src="" />
-<img alt="Git" height="50" style="margin:10px" src="" />
-<img alt="Bash" height="50" style="margin:10px" src="" />
+<img alt="Linux" height="50" style="margin:10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" />
+<img alt="Git" height="50" style="margin:10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" />
+<img alt="Bash" height="50" style="margin:10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" />
 </div>
 
 </td>
