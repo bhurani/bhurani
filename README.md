@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# <div align="center">I'm Mayank, a full-stack web developer.</div>
+# <div align="center">I'm Mayank, a full-stack web developer</div>
