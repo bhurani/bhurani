@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 
 ### Backend
 <div align="center">
-<img alt="PHP" height="50" style="margin:10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg"/>
+<img alt="PHP" height="50" style="margin:10px" src="https://static.javatpoint.com/phppages/images/php-tutorial.png"/>
 <img alt="MySQL" height="50" style="margin:10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg"/>
 </div>
 
