@@ -18,3 +18,7 @@ Here are some ideas to get you started:
 # <div align="center">I'm Mayank, a full-stack web developer</div>
 
 - ⚡ Fun fact: I use tabs over spaces
+
+<br/>
+
+## My Skill Set
