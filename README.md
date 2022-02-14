@@ -63,3 +63,12 @@ Here are some ideas to get you started:
 </table>
 
 <br/>
+
+### Connect With Me
+
+<div align="center">
+<a href="https://github.com/bhurani" target="_blank">
+<img alt="github" src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" style="margin-bottom:5px"/>
+</div>
+
+<br/>
