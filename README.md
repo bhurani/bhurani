@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 <table>
 <tr>
-<td width="33.33%">
+<td valign="top" width="33.33%">
 
 ### Frontend
 <div align="center">
@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 </div>
 
 </td>
-<td width="33.33%">
+<td valign="top" width="33.33%">
 
 ### Backend
 <div align="center">
@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 </div>
 
 </td>
-<td width="33.33%">
+<td valign="top" width="33.33%">
 
 ### DevOps
 <div align="center">
