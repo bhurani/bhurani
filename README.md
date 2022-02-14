@@ -82,5 +82,5 @@ Here are some ideas to get you started:
 
 ## Profile Views
 <div align="center">
-<img align="center" alt="Profile Views" src="https://komarev.com/ghpvc/?username=bhurani&&style=flat-square" />
+<img alt="Profile Views" src="https://komarev.com/ghpvc/?username=bhurani&&style=flat-square" />
 </div>
