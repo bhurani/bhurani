@@ -72,3 +72,10 @@ Here are some ideas to get you started:
 </div>
 
 <br/>
+
+## Github Stats
+<div align="center">
+<img align="center" alt="stats" src="https://github-readme-stats.vercel.app/api?username=bhurani&show_icons=true&count_private=true&hide_border=true">
+</div>
+
+<br/>
