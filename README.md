@@ -22,3 +22,42 @@ Here are some ideas to get you started:
 <br/>
 
 ## My Skill Set
+
+<table>
+<tr>
+<td width="33.33%">
+
+### Frontend
+<div align="center">
+<img alt="Bootstrap" height="50" style="margin:10px" src="" />
+<img alt="CSS3" height="50" style="margin:10px" src="" />
+<img alt="HTML5" height="50" style="margin:10px" src="" />
+<img alt="JavaScript" height="50" style="margin:10px" src="" />
+<img alt="Photoshop" height="50" style="margin:10px" src="" />
+<img alt="Sass" height="50" style="margin:10px" src="" />
+<img alt="jQuery" height="50" style="margin:10px" src="" />
+<img alt="WordPress" height="50" style="margin:10px" src="" />
+</div>
+
+</td>
+<td width="33.33%">
+
+### Backend
+<div align="center">
+<img alt="PHP" height="50" style="margin:10px" src="" />
+<img alt="MySQL" height="50" style="margin:10px" src="" />
+</div>
+
+</td>
+<td width="33.33%">
+
+### DevOps
+<div align="center">
+<img alt="Linux" height="50" style="margin:10px" src="" />
+<img alt="Git" height="50" style="margin:10px" src="" />
+<img alt="Bash" height="50" style="margin:10px" src="" />
+</div>
+
+</td>
+</tr>
+</table>
