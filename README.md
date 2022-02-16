@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <br/>
 
 ## My Skill Set
-<table>
+<table align="center">
 <tr>
 <td valign="top" width="33.33%">
 
